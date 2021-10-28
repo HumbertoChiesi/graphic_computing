@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=linesAndCircles
+comment1.params=size\ g\ largura\ altura
+comment1.target=linesAndCircles(int,\ java.awt.Graphics,\ int,\ int)
+comment2.params=
+comment2.target=void\ drawFigure()
+numComments=3

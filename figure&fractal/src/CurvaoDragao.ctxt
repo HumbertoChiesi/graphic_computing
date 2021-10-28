@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CurvaoDragao
+comment1.params=iter\ g\ meio_tela\ meio_vertical
+comment1.target=CurvaoDragao(int,\ java.awt.Graphics,\ int,\ int)
+comment2.params=iteracoes
+comment2.target=java.lang.Object[]\ sequencia_viradas(int)
+comment3.params=
+comment3.target=void\ desenha()
+numComments=4

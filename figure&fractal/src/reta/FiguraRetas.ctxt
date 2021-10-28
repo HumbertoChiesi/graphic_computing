@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FiguraRetas
+comment0.text=\r\n\ Aplicacao\ para\ testar\ primitivos\ graficos.\r\n\ \r\n\ @author\ Humberto\ Chiesi\ Neto\ e\ Matheus\ Madureira\ Fortunato\r\n\ @version\ 13/09/2021\r\n
+comment1.params=g\ x1\ y1\ x2\ y2\ nome\ esp\ cor
+comment1.target=void\ desenharRetaEq(java.awt.Graphics,\ int,\ int,\ int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+comment2.params=g\ x1\ y1\ x2\ y2\ nome\ esp\ cor
+comment2.target=void\ desenharRetaMp(java.awt.Graphics,\ int,\ int,\ int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+comment3.params=g\ qtde\ esp
+comment3.target=void\ desenharRetas(java.awt.Graphics,\ int,\ int)
+numComments=4
